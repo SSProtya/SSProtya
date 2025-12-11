@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Satirtha Saha Protya
-- 👀 I’m interested in Computational Bioanalytical Chemistry & Neurochemistry
-- 📫 How to reach me: sahass@beloit.edu
+- 👀 I’m a PhD student in Analytical Chemistry with a concentration in Neurochemistry in Sweedler Group at UIUC
+- 📫 How to reach me: satirthasahaprotya@gmail.com or ssprotya@illinois.edu
 - 😄 Pronouns: He/Him
 
 <!---
